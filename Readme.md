@@ -41,7 +41,7 @@ You can follow this link
 ```
 https://www.tensorflow.org/install/install_windows
 ```
-## Running the tests
+## Running script
 ```
 (tensorflow) michelone-Mac:tensorflow root# python3 Mysql2Tf.py 
 ```
