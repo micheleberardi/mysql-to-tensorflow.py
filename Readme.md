@@ -136,7 +136,7 @@ Wrote 547855 rows to csv.
 
 ## Authors
 
-* **Michele Berardi** - *Initial work* - [MicheleBerardi](https://github.com/micheleberardi)
+* **Michele Berardi** -- [MicheleBerardi](https://github.com/micheleberardi)
 
 
 
